@@ -29,4 +29,6 @@ Please email <daveho@cs.jhu.edu> if you need to get access to Courselore.
 
 ## News
 
-* **August 30** — Welcome back!
+* **August 30** — Welcome back! At your earliest convenience,
+  please fill out the following google form to let us know your
+  Github account information: <https://forms.gle/vzVQi7dESw5vCyDYA>
