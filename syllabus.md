@@ -16,19 +16,25 @@ category: "syllabus"
 
 Office: Malone 240A
 
-Office hours: T 12-2pm, Th 1-3 pm, or by arrangement, via Zoom (see Courselore for URL)
+Office hours: Mondays and Wednesdays, 1:30–3:00 pm, in Malone 240A, or by arrangement
 
 ## Course Assistants
 
 Head course assistant:
 
-* Michael Berman <mailto:mberma24@jhu.edu>
+* Zhuohao Zhang <zzhan381@jhu.edu>
+
+Course assistant:
+
+* Moe Frumkin <mfrumki1@jhu.edu>
+
+CA office hours will be posted on Courselore.
 
 ## Meeting
 
 MW 12:00–1:15 pm
 
-Class meetings are in Krieger 180
+Class meetings are in Hodson 313
 
 ## Textbook
 
