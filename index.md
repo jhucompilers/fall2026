@@ -31,4 +31,6 @@ Please email <daveho@cs.jhu.edu> if you need to get access to Courselore.
 
 * **August 30** — Welcome back! At your earliest convenience,
   please fill out the following google form to let us know your
-  Github account information: <https://forms.gle/vzVQi7dESw5vCyDYA>
+  Github account information: <https://forms.gle/vzVQi7dESw5vCyDYA>.
+  We will use this to create a project repository for you to use
+  during the semester.
