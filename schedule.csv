@@ -4,7 +4,7 @@ Sep 2 27,"Context-free grammars, parse trees, ambiguity, recursive descent parsi
 Sep 7,"*Labor day, no classes*",
 Sep 9,"Limitations of recursive descent, precedence climbing",lectures/lecture03-public.pdf,,EaC 3.3,,
 Sep 14,"ASTs, interpreters",lectures/lecture04-public.pdf,,
-Sep 16,"Interpreter runtime structures",lectures/lecture05-public.pdf,,,"<span class='tentative'>A1 due<br>Fri 9/18</span>"
+Sep 16,"Interpreter runtime structures",lectures/lecture05-public.pdf,,,"[A1](assign/assign01.html) due<br>Fri 9/18"
 Sep 21,"Interpreter runtime structures 2",lectures/lecture06-public.pdf,,"[Gosling, Java Intermediate Bytecodes](https://dl.acm.org/doi/pdf/10.1145/202529.202541)",
 Sep 23,"Lexical analyzer generators, lex/flex",lectures/lecture07-public.pdf,,"EaC 2.1–2.5, F&amp;B Chapters 1–2",
 Sep 28,"LL(1) parsing",lectures/lecture08-public.pdf,,"EaC 3.3","<span class='tentative'>A2 MS1 due</span>"
