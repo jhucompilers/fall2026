@@ -5,6 +5,8 @@ title: "Assignment 1"
 
 **Due**: Friday, Sep 18th by 11pm Baltimore time
 
+*Update 9/16*: Added a [Code Walkthrough](#code-walkthrough) section
+
 # Interpreter part 1: expression evaluation
 
 In this assignment you will implement an interpreter which serves
@@ -365,6 +367,12 @@ implementation. A paragraph or two is sufficient. If you used any
 interesting implementation techniques, let us know about them.
 Also, if there are any limitations such as features that you weren't
 able to get working, you can document them here.
+
+## Code Walkthrough
+
+Within one week of the assignment due date, we expect you to complete a
+code walkthrough. Please see the [Code Walkthroughs](codewalkthrough.html)
+page for details.
 
 ## Submitting
 

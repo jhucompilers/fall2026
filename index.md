@@ -29,6 +29,9 @@ Please email <daveho@cs.jhu.edu> if you need to get access to Courselore.
 
 ## News
 
+* **Sep 16** — A [Code Walkthrough](assign/codewalkthrough.html) page
+  has been added to document logistics and expectations for code
+  walkthroughs.
 * **Sep 6** — [Assignment 1](assign/assign01.html) is due
   Friday, September 18th.
 * **Aug 30** — Welcome back! At your earliest convenience,
