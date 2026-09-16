@@ -30,3 +30,4 @@ development environment.
 Assignment | Due
 ---------- | ---
 [Assignment 1](assign/assign01.html) | Friday, Sep 18th by 11 pm
+[Assignment 2](assign/assign02.html) | MS1 due Monday, Sep 28th<br>MS2 due Friday, Oct 9th

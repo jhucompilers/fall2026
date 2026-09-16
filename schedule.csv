@@ -7,10 +7,10 @@ Sep 14,"ASTs, interpreters",lectures/lecture04-public.pdf,,
 Sep 16,"Interpreter runtime structures",lectures/lecture05-public.pdf,,,"[A1](assign/assign01.html) due<br>Fri 9/18"
 Sep 21,"Interpreter runtime structures 2",lectures/lecture06-public.pdf,,"[Gosling, Java Intermediate Bytecodes](https://dl.acm.org/doi/pdf/10.1145/202529.202541)",
 Sep 23,"Lexical analyzer generators, lex/flex",lectures/lecture07-public.pdf,,"EaC 2.1–2.5, F&amp;B Chapters 1–2",
-Sep 28,"LL(1) parsing",lectures/lecture08-public.pdf,,"EaC 3.3","<span class='tentative'>A2 MS1 due</span>"
+Sep 28,"LL(1) parsing",lectures/lecture08-public.pdf,,"EaC 3.3","[A2](assign/assign02.html) MS1 due"
 Sep 30,"Parser generators, yacc/bison",lectures/lecture09-public.pdf,calc.zip,"F&amp;B Chapter 3",
 Oct 5,"Bottom-up parsing, Exam 1 review",lectures/lecture10-public.pdf,,"EaC 3.4"
-Oct 7,"**Exam 1**",,,,"<span class='tentative'>A2 MS2 due<br>Fri 10/9</span>"
+Oct 7,"**Exam 1**",,,,"[A2](assign/assign02.html) MS2 due<br>Fri 10/9"
 Oct 12,"C syntax and semantics",lectures/lecture11-public.pdf,,
 Oct 14,"AST visitors, ad-hoc semantic analysis",lectures/lecture12-public.pdf,,,
 Oct 19,"Intermediate representations",lectures/lecture13-public.pdf,,"EaC 5.1–5.5"

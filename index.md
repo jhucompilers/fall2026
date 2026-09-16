@@ -29,6 +29,8 @@ Please email <daveho@cs.jhu.edu> if you need to get access to Courselore.
 
 ## News
 
+* **Sep 16** — [Assignment 2](assign/assign02.html) has two milestones,
+  due Monday, September 28th, and Friday, October 9th, respectively.
 * **Sep 16** — A [Code Walkthrough](assign/codewalkthrough.html) page
   has been added to document logistics and expectations for code
   walkthroughs.
