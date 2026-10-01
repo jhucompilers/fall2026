@@ -25,7 +25,8 @@ A few points to be aware of:
    of completing the final milestone of the assignment
 
 If you find that none of the scheduled office hour time slots work for
-you, please email the instructor so that we can work something out.
+you, please <a href="mailto:daveho@cs.jhu.edu">email the instructor</a>
+so that we can work something out.
 
 # Expectations
 
@@ -33,7 +34,7 @@ In general, the purpose of the code walkthrough is for you to explain
 your work, and for us to learn more about your design and implementation
 decisions.
 
-The code walkthroughs will be fairly information. We might ask you
+The code walkthroughs will be fairly informal. We might ask you
 to explain
 
 1. how a specific function works
@@ -42,10 +43,29 @@ to explain
 
 etc.
 
+<div class='admonition caution'>
+  <div class='title'>Important</div>
+  <div class='content' markdown='1'>
+When you do your code walkthrough, we expect you to be able to confidently
+explain the logic and thought process behind the code. If you seem
+unfamiliar with your code and how it works, that is a problem that could
+lead to an unsatisfactory evaluation. We recommend that you review
+your code before going into the code walkthrough so that it's as fresh in
+your mind as possible.
+  </div>
+</div>
+
+We also expect, as a general requirement for completing each assignment,
+that your development work will be fully documented by git commits in
+your course-provided repository on Github. In general, we recommend
+more frequent finer-grained commits rather than a small number of large
+commits, since the latter don't document your incremental progress well.
+
 # Evaluation
 
 The result of a code walkthrough is one of two possibilities, *Satisfactory*
-or *Unsatisfactory*.
+or *Unsatisfactory*. Note that if you are working with a partner, each of
+you is evaluated separately.
 
 In general, if you made a substantial effort to complete the assignment
 authentically, you should not have any difficulty in achieving a

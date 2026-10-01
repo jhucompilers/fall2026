@@ -27,6 +27,9 @@ this case.
 Please see the instructors or CAs if you need help or advice on setting up a
 development environment.
 
+Please review the [expectations for code walkthroughs](assign/codewalkthrough.html).
+A code walkthrough is required in order to receive credit for each assignment.
+
 Assignment | Due
 ---------- | ---
 [Assignment 1](assign/assign01.html) | Friday, Sep 18th by 11 pm
