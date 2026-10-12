@@ -29,6 +29,8 @@ Please email <daveho@cs.jhu.edu> if you need to get access to Courselore.
 
 ## News
 
+* **Oct 12** — [Assignment 3](assign/assign03.html) is due
+  Wednesday, October 28th.
 * **Oct 1** — Updated the [Code Walkthroughs](assign/codewalkthrough.html)
   page to clarify some details.
 * **Sep 16** — [Assignment 2](assign/assign02.html) has two milestones,
