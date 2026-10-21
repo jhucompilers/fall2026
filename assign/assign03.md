@@ -5,6 +5,18 @@ title: "Assignment 3"
 
 **Due date**: Wednesday, Oct 28th by 11pm Baltimore time
 
+*Update 10/21*: the original starter code had a cut and paste error
+in `include/lowlevel.h`. You can get a fixed version as follows.
+In the top-level directory of your git repo:
+
+```text
+cd assign03/include
+wget https://jhucompilers.github.io/fall2026/assign/assign03/lowlevel.h
+git add lowlevel.h
+git commit -m'fix error in starter code'
+git push
+```
+
 # Compiler: semantic analysis
 
 In this assignment you will implement semantic analysis and type

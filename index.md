@@ -29,6 +29,10 @@ Please email <daveho@cs.jhu.edu> if you need to get access to Courselore.
 
 ## News
 
+* **Oct 21** — The [Assignment 3](assign/assign03.html) starter code
+  has been updated to fix a cut and paste error in `include/lowlevel.h`.
+  See the assignment description for instructions on how to get
+  the fixed version.
 * **Oct 12** — [Assignment 3](assign/assign03.html) is due
   Wednesday, October 28th.
 * **Oct 1** — Updated the [Code Walkthroughs](assign/codewalkthrough.html)
