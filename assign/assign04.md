@@ -557,8 +557,7 @@ Test passed!
 </pre></div>
 
 Note that the `example29` and `example31` tests will take a very
-long time to simular (probably more than 10 minutes each.)
-HERE
+long time to simulate (probably more than 10 minutes each.)
 
 ## Milestone 2: x86-64 code generation
 
