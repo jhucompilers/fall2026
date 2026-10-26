@@ -29,6 +29,8 @@ Please email <daveho@cs.jhu.edu> if you need to get access to Courselore.
 
 ## News
 
+* **Oct 26** — [Assignment 4](assign/assign04.html) has two milestones,
+  due Friday, Nov 6th  and Friday, Nov 20th, respectively.
 * **Oct 21** — The [Assignment 3](assign/assign03.html) starter code
   has been updated to fix a cut and paste error in `include/lowlevel.h`.
   See the assignment description for instructions on how to get
