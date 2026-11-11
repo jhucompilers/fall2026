@@ -29,6 +29,9 @@ Please email <daveho@cs.jhu.edu> if you need to get access to Courselore.
 
 ## News
 
+* **Nov 11** — [Assignment 5](assign/assign05.html) is due
+  Friday, Dec 11th. Note that it will not be possible to use late hours
+  on this assignment.
 * **Oct 26** — [Assignment 4](assign/assign04.html) has two milestones,
   due Friday, Nov 6th  and Friday, Nov 20th, respectively.
 * **Oct 21** — The [Assignment 3](assign/assign03.html) starter code
