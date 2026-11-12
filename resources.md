@@ -80,3 +80,4 @@ For Exam 3:
 * [Fall 2020 Exam 4](resources/exam04-628.pdf), [Solution](resources/exam04_soln.pdf) (Questions 1–4 are relevant)
 * [Fall 2021 Exam 3](resources/exam03-fall2021.pdf), [Solution](resources/exam03-fall2021-solution.pdf) (All questions are relevant)
 * [Fall 2022 Exam 3](resources/exam03-fall2022.pdf), [Solution](resources/exam03-fall2022-solution.pdf) (All questions are relevant)
+* [Fall 2025 Exam 3](resources/exam03-fall2025.pdf), [Solution](resources/exam03-fall2025-solution.pdf) (All questions are relevant)
